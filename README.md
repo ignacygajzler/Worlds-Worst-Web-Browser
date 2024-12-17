@@ -1,2 +1,2 @@
-# Worlds-Worst-Web-Browser
-This is Worlds Worst Web Browser.
+# World's Worst Web Browser
+World's Worst Web Browser created by dziobak studios.
